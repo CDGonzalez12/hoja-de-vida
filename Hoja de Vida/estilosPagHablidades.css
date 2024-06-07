@@ -1,0 +1,38 @@
+.cuerpoPaginaHabilidades{
+    color: #382a2a;
+    margin-bottom: 50px;
+}
+
+.cuerpoPaginaHabilidades #contenedorParrafos{
+    display: flex;
+
+}
+
+.cuerpoPaginaHabilidades h1{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.informacionCuerpoHabilidades{
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+#parrafo1, #parrafo2{
+    color: #382a2a;
+    font-weight: bold;
+    line-height: 150%;
+}
+
+#parrafo1{
+    width: 50%;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#parrafo2{
+    width: 50%;
+    margin-right: 50px;
+}
+
